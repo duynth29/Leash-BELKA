@@ -6,7 +6,7 @@ Predict small molecule-protein interactions using the Big Encoded Library for Ch
 
 
 ## **Problem definition and exploratory data analysis**
-![Alt text](EDA.png)
+![Alt text](Artifacts/EDA.png)
 
 
 ## Installation
@@ -35,6 +35,6 @@ bash install.sh
 
 ## Reuslt
 ### 1D CNN
-![Alt text](.png)
+![Alt text](Artifacts/Validation_split.png)
 
 
