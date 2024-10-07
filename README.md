@@ -33,8 +33,13 @@ bash install.sh
 
 
 
-## Reuslt
+## Result
 ### 1D CNN
 ![Validation Split](Artifacts/Validation_split.png)
 
+
+
+*Submitted results
+Public Leaderboard: 0.45582 (Rank 147)
+Private Leaderboard: 0.25429 (Rank 122)
 
