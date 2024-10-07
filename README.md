@@ -39,7 +39,10 @@ bash install.sh
 
 
 
-*Submitted results
+### Submitted results
 Public Leaderboard: 0.45582 (Rank 147)
 Private Leaderboard: 0.25429 (Rank 122)
 
+## Acknowledgement
+
+Some code here are adapted from other solutions: (https://www.kaggle.com/code/ahmedelfazouan/belka-1dcnn-starter-with-all-data), (https://www.kaggle.com/code/gallo33henrique/model-ml-xgboost-90-accuracy-new-medicines-belka)
