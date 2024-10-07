@@ -23,12 +23,12 @@ bash install.sh
 
 ## Model
 ### Combining XGBoost model and 1D CNN model 
-* XGBoost model: 
+#### XGBoost model: 
 - XGboost/scr/train_XGboost_sEH.py
 - XGboost/scr/train_XGboost_BRD4.py
 - XGboost/scr/train_XGboost_HSA.py
 
-* 1D CNN
+#### 1D CNN
 - 1D_CNN/scr/1D_CNN_train.py
 
 
